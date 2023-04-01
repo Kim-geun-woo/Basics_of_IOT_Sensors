@@ -2,4 +2,4 @@
 
 
 
-[![YOUTUBE](http://img.youtube.com/vi/cthF1d_jvZs/0.jpg)](http://www.youtube.com/cthF1d_jvZs)
+[![YOUTUBE](http://img.youtube.com/vi/cthF1d_jvZs/0.jpg)](http://www.youtube.com/watch?v=cthF1d_jvZs)
