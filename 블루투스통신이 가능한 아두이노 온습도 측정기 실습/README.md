@@ -3,5 +3,5 @@
 
 
 
-[![YOUTUBE](http://img.youtube.com/vi/cdodLvhX1XA.jpg)](http://www.youtube.com/watch?v=cdodLvhX1XA)
+[![YOUTUBE](http://img.youtube.com/vi/cdodLvhX1XA/0.jpg)](http://www.youtube.com/watch?v=cdodLvhX1XA)
 
